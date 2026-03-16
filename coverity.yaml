@@ -1,0 +1,3 @@
+capture:
+  build:
+    build-command: gcc -c test/test_suite.c -o /dev/null
